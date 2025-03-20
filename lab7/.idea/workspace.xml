@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="94824c25-b5e3-47b5-a865-2b230f08facb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zad1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zad1/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zad2/BonusException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zad2/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zad2/ContractEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zad2/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zad2/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zad2/FullEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zad2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zad2/SalaryException.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2qpqIIbktzsT1nX4CXlZALvsWJQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.zad1.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/java/LABS/lab7"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.zad1.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zad2.Main" />
+      <module name="lab7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zad2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zad1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zad1.Main" />
+      <module name="lab7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zad1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.zad1.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94824c25-b5e3-47b5-a865-2b230f08facb" name="Changes" comment="" />
+      <created>1735369785628</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1735369785628</updated>
+    </task>
+    <servers />
+  </component>
+</project>
